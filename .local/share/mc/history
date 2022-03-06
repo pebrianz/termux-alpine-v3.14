@@ -1,0 +1,18 @@
+[input2]
+0=/data/data/com.termux/files/usr/share/TermuxAlpine/
+
+[input-def]
+0=*
+
+[cmdline]
+0=
+
+[Dir Hist New Right Panel]
+0=/data/data/com.termux/files/home
+
+[Dir Hist New Left Panel]
+0=/data/data/com.termux/files/home
+1=/data/data/com.termux/files
+2=/data/data/com.termux/files/usr
+3=/data/data/com.termux/files/usr/share
+4=/data/data/com.termux/files/usr/share/TermuxAlpine
